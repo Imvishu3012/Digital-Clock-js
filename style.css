@@ -1,0 +1,14 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+.digital {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 5em;
+  line-height: 100px;
+}
